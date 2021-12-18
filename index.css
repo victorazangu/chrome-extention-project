@@ -19,6 +19,7 @@ button{
     border: 1px solid #5f9341;
     font-weight: bold;
     margin-top:4px;
+    min-width: 400px;
     
 }
 #delete-btn{
